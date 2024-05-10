@@ -1,0 +1,1 @@
+This is C++ TicTacToe game. It's on Bosnian Language. Design is not actually pretty good, but I'm glad I made this with my perception and with my own idea to represent it on terminal. Btw C++ is my first language.
